@@ -13,4 +13,4 @@ echo "bye"
 echo "who am I ?? `whoami`"
 echo "Path is : `pwd`"
 echo " **************** Thank You !! ***************************************"
-sleep 10
+sleep 1
